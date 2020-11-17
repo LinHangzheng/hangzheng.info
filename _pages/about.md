@@ -41,7 +41,9 @@ Selected Projects
 Deep Learning Models for Human Aggression Detection
 ------
 ![LSTM_CNN.png](../images/lstm_cnn.png)
+
 ![VGG.png](../images/VGG.png)
+
 •	Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), associate professor in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). 
 
 •	Reproduced and compared several vision-based neural network models, including SNN, Transfer Learning model, conv-LSTM, 3D convolution model, on human aggressive behavior.
@@ -64,13 +66,18 @@ Human Falling Detection by Optical  Flow and CNN
 HUAWEI HiSilicon
 ------
 ![Da_Vinci_Core.png](../images/Da_Vinci_Core.png)
+
 •	Involved in the HUAWEI Turing department and participated in the development of Da Vinci chip operators. (The Da Vinci chip is one of the most advanced neural network chips in the world)
 
 •	Accelerated the data transmission by calculating the best way to allocate the moving data and how to divide each part of data and their corresponding buffer and cache.
 
 •	Successfully reduced the transmission delay from 15ms into 3ms.
 
-
+FPGA based Game Design
+------
+Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University
+![Avalon.png](../images/Avalon.png) 
+In the final project, we create a first person 2.5D RPG game “Avalon” by using the DE2-115 board. All the hardware circuit are combined to load the image into the OCM and determine which color of each pixel should be shown on the monitor. The SOC code will do all the game logic, like the key control of the character “Saber” to let her move, attack, block, and use the skill. In addition, SOC will also determine whether each pattern exists on the screen and which frame should be shown on the screen. The data will transfer from SOC to hardware with our own IP core, which allows a totally 64 32-bits register file to be modified by C code and received by hardware.
 
 Contact
 =======
