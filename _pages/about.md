@@ -37,6 +37,7 @@ Our paper ﬁnally get the Outstanding Winners (0.1%) and the Informs Award(0.02
 
 Selected Projects
 ======
+
 Deep Learning Models for Human Aggression Detection
 ------
 •	Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), associate professor in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). 
@@ -64,7 +65,7 @@ HUAWEI HiSilicon
 •	Accelerated the data transmission by calculating the best way to allocate the moving data and how to divide each part of data and their corresponding buffer and cache.
 
 •	Successfully reduced the transmission delay from 15ms into 3ms.
-
+![Da_Vinci_Core.png](/images/Da_Vinci_Core.png)
 
 
 
