@@ -38,7 +38,7 @@ Our paper ﬁnally get the Outstanding Winners (0.1%) and the Informs Award(0.02
 Selected Projects
 ======
 
-Deep Learning Models for Human Aggression Detection
+Deep Learning Models for Human Aggression Detection [Code](https://github.com/LinHangzheng/Aggression_Detection)
 ------
 ![LSTM_CNN.png](../images/lstm_cnn.png)
 
@@ -52,7 +52,7 @@ Deep Learning Models for Human Aggression Detection
 
 •	Created our own dataset which we manually cut and labeled from internet to evaluate their flexibility.
 
-Human Falling Detection by Optical  Flow and CNN
+Human Falling Detection by Optical  Flow and CNN [Code](https://github.com/LinHangzheng/Fall_Detection_Project) 
 ------
 •	Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/)
 
@@ -73,10 +73,12 @@ HUAWEI HiSilicon
 
 •	Successfully reduced the transmission delay from 15ms into 3ms.
 
-FPGA based Game Design
+FPGA based Game Design [Code](https://github.com/LinHangzheng/ECE385)
 ------
 Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University
+
 ![Avalon.png](../images/Avalon.png) 
+
 In the final project, we create a first person 2.5D RPG game “Avalon” by using the DE2-115 board. All the hardware circuit are combined to load the image into the OCM and determine which color of each pixel should be shown on the monitor. The SOC code will do all the game logic, like the key control of the character “Saber” to let her move, attack, block, and use the skill. In addition, SOC will also determine whether each pattern exists on the screen and which frame should be shown on the screen. The data will transfer from SOC to hardware with our own IP core, which allows a totally 64 32-bits register file to be modified by C code and received by hardware.
 
 Contact
