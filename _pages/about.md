@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,11 +14,11 @@ I major in electronic and computer engineering and am interested in Artificial I
 
 A version of my CV and transcript can be found here.
 
-[CV](https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/cv.pdf)
+[CV](http://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/cv.pdf)
 
-[UIUC Transcript](https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript.pdf)
+[UIUC Transcript](http://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript.pdf)
 
-[ZJU Transcript](https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript_ZJU.pdf)
+[ZJU Transcript](http://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript_ZJU.pdf)
 
 
 A data-driven personal website
