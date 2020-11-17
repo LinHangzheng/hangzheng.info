@@ -21,6 +21,7 @@ A version of my CV and transcript can be found here.
 [ZJU Transcript](../files/Transcript_ZJU.pdf)
 
 
+
 Competition Experience
 ======
 Advisor: [Wei Liu](http://www.kthbedc.com/), Assistant Professor of Division of Sustainable Buildings Department of Civil and Architectural Engineering KTH Royal Institute of Technology
@@ -35,10 +36,12 @@ Our paper ﬁnally get the Outstanding Winners (0.1%) and the Informs Award(0.02
 
 [certificate](http://www.comap-math.com/mcm/2019Certs/1908904.pdf)
 
+
+
 Selected Projects
 ======
 
-Deep Learning Models for Human Aggression Detection [Code](https://github.com/LinHangzheng/Aggression_Detection)
+Deep Learning Models for Human Aggression Detection [[Code]](https://github.com/LinHangzheng/Aggression_Detection)
 ------
 ![LSTM_CNN.png](../images/lstm_cnn.png){:height="60%" width="80%"}
 
@@ -52,7 +55,7 @@ Deep Learning Models for Human Aggression Detection [Code](https://github.com/Li
 
 •	Created our own dataset which we manually cut and labeled from internet to evaluate their flexibility.
 
-Human Falling Detection by Optical  Flow and CNN [Code](https://github.com/LinHangzheng/Fall_Detection_Project) 
+Human Falling Detection by Optical  Flow and CNN [[Code]](https://github.com/LinHangzheng/Fall_Detection_Project) 
 ------
 •	Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/)
 
@@ -65,7 +68,7 @@ Human Falling Detection by Optical  Flow and CNN [Code](https://github.com/LinHa
 
 HUAWEI HiSilicon
 ------
-![Da_Vinci_Core.png](../images/Da_Vinci_Core.png){:height="50%" width="50%"}
+![Da_Vinci_Core.png](../images/Da_Vinci_Core.png){:height="70%" width="70%"}
 
 •	Involved in the HUAWEI Turing department and participated in the development of Da Vinci chip operators. (The Da Vinci chip is one of the most advanced neural network chips in the world)
 
@@ -73,13 +76,15 @@ HUAWEI HiSilicon
 
 •	Successfully reduced the transmission delay from 15ms into 3ms.
 
-FPGA based Game Design [Code](https://github.com/LinHangzheng/ECE385)
+FPGA based Game Design [[Code]](https://github.com/LinHangzheng/ECE385)
 ------
-![Avalon.png](../images/Avalon.png){:height="50%" width="50%"} 
+![Avalon.png](../images/Avalon.png){:height="70%" width="70%"} 
 
 Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University
 
 In the final project, we create a first person 2.5D RPG game “Avalon” by using the DE2-115 board. All the hardware circuit are combined to load the image into the OCM and determine which color of each pixel should be shown on the monitor. The SOC code will do all the game logic, like the key control of the character “Saber” to let her move, attack, block, and use the skill. In addition, SOC will also determine whether each pattern exists on the screen and which frame should be shown on the screen. The data will transfer from SOC to hardware with our own IP core, which allows a totally 64 32-bits register file to be modified by C code and received by hardware.
+
+
 
 Contact
 =======
