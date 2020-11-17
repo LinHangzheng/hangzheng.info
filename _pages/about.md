@@ -84,7 +84,11 @@ Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang Universi
 
 In the final project, we create a first person 2.5D RPG game “Avalon” by using the DE2-115 board. All the hardware circuit are combined to load the image into the OCM and determine which color of each pixel should be shown on the monitor. The SOC code will do all the game logic, like the key control of the character “Saber” to let her move, attack, block, and use the skill. In addition, SOC will also determine whether each pattern exists on the screen and which frame should be shown on the screen. The data will transfer from SOC to hardware with our own IP core, which allows a totally 64 32-bits register file to be modified by C code and received by hardware.
 
+Linux System Design [[Code]](https://github.com/LinHangzheng/ECE391)
+------
+Advisor: [Steven S. Lumetta](https://ece.illinois.edu/about/directory/faculty/lumetta), University of Illinois Urbana-Champaign
 
+We implemented a x86-based operating system from scratch, including memory paging and segmentation, drivers of peripheral equipment and multi-process scheduling.
 
 Contact
 =======
