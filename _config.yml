@@ -85,8 +85,8 @@ author:
   bio              : "Senior Student of ECE Department at ZJUI Institute"
   location         : "Haining, P.R.China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "hl30@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
