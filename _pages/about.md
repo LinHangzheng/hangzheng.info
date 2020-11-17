@@ -14,11 +14,11 @@ I major in electronic and computer engineering and am interested in Artificial I
 
 A version of my CV and transcript can be found here.
 
-[CV](/https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/cv.pdf)
+[CV](https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/cv.pdf)
 
-[UIUC Transcript](/https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript.pdf)
+[UIUC Transcript](https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript.pdf)
 
-[ZJU Transcript](/https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript_ZJU.pdf)
+[ZJU Transcript](https://github.com/LinHangzheng/hangzheng.github.io/tree/master/files/Transcript_ZJU.pdf)
 
 
 A data-driven personal website
