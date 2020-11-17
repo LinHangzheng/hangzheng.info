@@ -33,13 +33,15 @@ The B problem asked teams to select, configure, optimally pack, geoposition, dep
 
 Our paper ﬁnally get the Outstanding Winners (0.1%) and the Informs Award(0.02%)
 
-[certificate] (http://www.comap-math.com/mcm/2019Certs/1908904.pdf)
+[certificate](http://www.comap-math.com/mcm/2019Certs/1908904.pdf)
 
 Selected Projects
 ======
 
 Deep Learning Models for Human Aggression Detection
 ------
+![LSTM_CNN.png](../images/lstm_cnn.png)
+![VGG.png](../images/VGG.png)
 •	Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), associate professor in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). 
 
 •	Reproduced and compared several vision-based neural network models, including SNN, Transfer Learning model, conv-LSTM, 3D convolution model, on human aggressive behavior.
@@ -63,12 +65,13 @@ Human Falling Detection by Optical  Flow and CNN
 
 HUAWEI HiSilicon
 ------
+![Da_Vinci_Core.png](../images/Da_Vinci_Core.png)
 •	Involved in the HUAWEI Turing department and participated in the development of Da Vinci chip operators. (The Da Vinci chip is one of the most advanced neural network chips in the world)
 
 •	Accelerated the data transmission by calculating the best way to allocate the moving data and how to divide each part of data and their corresponding buffer and cache.
 
 •	Successfully reduced the transmission delay from 15ms into 3ms.
-![Da_Vinci_Core.png](../images/Da_Vinci_Core.png)
+
 
 
 
