@@ -52,11 +52,14 @@ Human Falling Detection by Optical  Flow and CNN
 ------
 •	Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/)
 
+![Da_Vinci_Core.png](../images/Da_Vinci_Core.png)
+
 •	Developed a Convolutional Neural Network to train a neuro-based model to detect human falling.
 
 •	Created our own video data set, analyzed different data stacking patterns on neural network training.
 
 •	Implemented an end-to-end human falling detection model from catching data by camera to providing alarm.
+
 
 HUAWEI HiSilicon
 ------
@@ -65,7 +68,7 @@ HUAWEI HiSilicon
 •	Accelerated the data transmission by calculating the best way to allocate the moving data and how to divide each part of data and their corresponding buffer and cache.
 
 •	Successfully reduced the transmission delay from 15ms into 3ms.
-![Da_Vinci_Core.png](/images/Da_Vinci_Core.png)
+![Da_Vinci_Core.png](../images/Da_Vinci_Core.png)
 
 
 
