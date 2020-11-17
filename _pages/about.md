@@ -40,7 +40,7 @@ Selected Projects
 
 Deep Learning Models for Human Aggression Detection [Code](https://github.com/LinHangzheng/Aggression_Detection)
 ------
-![LSTM_CNN.png](../images/lstm_cnn.png =100x500)
+![LSTM_CNN.png](../images/lstm_cnn.png){:height="60%" width="80%"}
 
 ![VGG.png](../images/VGG.png)
 
@@ -65,7 +65,7 @@ Human Falling Detection by Optical  Flow and CNN [Code](https://github.com/LinHa
 
 HUAWEI HiSilicon
 ------
-![Da_Vinci_Core.png](../images/Da_Vinci_Core.png =400x200))
+![Da_Vinci_Core.png](../images/Da_Vinci_Core.png){:height="50%" width="50%"}
 
 •	Involved in the HUAWEI Turing department and participated in the development of Da Vinci chip operators. (The Da Vinci chip is one of the most advanced neural network chips in the world)
 
@@ -75,9 +75,9 @@ HUAWEI HiSilicon
 
 FPGA based Game Design [Code](https://github.com/LinHangzheng/ECE385)
 ------
-Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University
+![Avalon.png](../images/Avalon.png){:height="50%" width="50%"} 
 
-![Avalon.png](../images/Avalon.png =600x300) 
+Advisor: [Chushan Li](https://person.zju.edu.cn/en/lichushan), Zhejiang University
 
 In the final project, we create a first person 2.5D RPG game “Avalon” by using the DE2-115 board. All the hardware circuit are combined to load the image into the OCM and determine which color of each pixel should be shown on the monitor. The SOC code will do all the game logic, like the key control of the character “Saber” to let her move, attack, block, and use the skill. In addition, SOC will also determine whether each pattern exists on the screen and which frame should be shown on the screen. The data will transfer from SOC to hardware with our own IP core, which allows a totally 64 32-bits register file to be modified by C code and received by hardware.
 
