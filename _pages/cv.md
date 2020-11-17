@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 Education
 ------
-* B.Eng.  Zhejiang University  August 2017 – June 2021 (expected)
+**B.Eng.  Zhejiang University** August 2017 – June 2021 (expected)
 
   Dual degree program at Zhejiang University/University of Illinois at Urbana-Champaign Institute. 
   
   Major: Electrical and Computer Engineering
  
-* B.S.  University of  Illinois at Urbana-Champaign	August 2019 - December 2019
+**B.S.  University of  Illinois at Urbana-Champaign**	August 2019 - December 2019
 
   Exchange student in Department of Electrical and Computer Engineering
 
