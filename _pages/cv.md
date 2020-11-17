@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Education
 ------
 * B.Eng.  Zhejiang University  August 2017 – June 2021 (expected)
@@ -66,13 +65,13 @@ MATH286 Intro to Differential Eq Plus	2020
 SELECTED HONORS & AWARDS
 ------
 *	Zhejiang Provincial Government Scholarship	2019 
-*	Zhejiang University Scholarship - First Prize (top 3% in ZJU)	<h1 style="text-align:right">2019 </h1>
-*	Outstanding Student of Zhejiang University	<h1 style="text-align:right">2019 </h1>
-*	First-class Scholarship of ZJUI	<h1 style="text-align:right">2019 </h1>
-*	Academic Excellent Award of Zhejiang University	<h1 style="text-align:right">2019 </h1>
-*	Brave star of HUAWEI <h1 style="text-align:right">2019 </h1>
-*	Top ten Social Practice Teams of Zhejiang University <h1 style="text-align:right">2019 </h1>
-* Third-class Scholarship of ZJUI	<p align="left">2018</p>
+*	Zhejiang University Scholarship - First Prize (top 3% in ZJU)	2019
+*	Outstanding Student of Zhejiang University 2019
+*	First-class Scholarship of ZJUI	2019
+*	Academic Excellent Award of Zhejiang University	2019
+*	Brave star of HUAWEI 2019
+*	Top ten Social Practice Teams of Zhejiang University 2019
+* Third-class Scholarship of ZJUI	2018
 
   
 Skills
