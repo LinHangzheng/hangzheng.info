@@ -74,7 +74,7 @@ HUAWEI HiSilicon
 
 * Accelerated the data transmission by calculating the best way to allocate the moving data and how to divide each part of data and their corresponding buffer and cache.
 
-* Successfully reduced the transmission delay from 15ms into 3ms.
+* Successfully reduced the transmission delay from 50ms into 3ms.
 
 FPGA based Game Design [[Code]](https://github.com/LinHangzheng/ECE385)
 ------

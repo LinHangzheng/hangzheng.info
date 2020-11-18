@@ -45,7 +45,7 @@ Work experience
 
 * Involved in the HUAWEI Turing department and participated in the development of Da Vinci chip operators. (The Da Vinci chip is one of the most advanced neural network chips in the world)
 * Accelerated the data transmission by calculating the best way to allocate the moving data and how to divide each part of data and their corresponding buffer and cache.
-* Successfully reduced the transmission delay from 15ms into 3ms.
+* Successfully reduced the transmission delay from 50ms into 3ms.
 
 **Mathematical Contest in Modeling**	January 2019 
 
