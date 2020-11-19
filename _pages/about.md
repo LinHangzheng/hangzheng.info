@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Senior student at [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/).
 
-I major in electronic and computer engineering and am interested in Artificial Intelligence, especially about deep learning. Recently, I am researching on an efficient and accurate method to detect aggressive behavior and human falling by convolutional neural network whith professor [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/).
+I major in electronic and computer engineering and am interested in Artificial Intelligence, especially about deep learning. Recently, I am researching on an efficient and accurate method to detect aggressive behavior and human falling by convolutional neural network whith professor [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/).
 
 A version of my CV and transcript can be found here.
 
@@ -47,7 +47,7 @@ Deep Learning Models for Human Aggression Detection [[Code]](https://github.com/
 
 ![VGG.png](../images/VGG.png)
 
-* Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), associate professor in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). 
+* Advisor: [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), associate professor in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). 
 
 * Reproduced and compared several vision-based neural network models, including SNN, Transfer Learning model, conv-LSTM, 3D convolution model, on human aggressive behavior.
 
@@ -57,7 +57,7 @@ Deep Learning Models for Human Aggression Detection [[Code]](https://github.com/
 
 Human Falling Detection by Optical  Flow and CNN [[Code]](https://github.com/LinHangzheng/Fall_Detection_Project) 
 ------
-* Advisor: [Volodymr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/)
+* Advisor: [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/)
 
 * Developed a Convolutional Neural Network to train a neuro-based model to detect human falling.
 
