@@ -11,11 +11,15 @@ redirect_from:
 Education
 ------
 **Zhejiang University (ZJU)** August 2017 – June 2021 (expected)
+
 B.Eng. in Electronic and Computer Engineering
+
 GPA: 3.94 / 4.0 (70.00 Credit Hours)
  
 **University of Illinois at Urbana-Champaign (UIUC)**	August 2017 – May 2021 (expected)
+
 B.S. in Computer Engineering
+
 GPA: 3.94 / 4.0 (57.00 Credit Hours)
 
 
