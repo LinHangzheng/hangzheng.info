@@ -49,30 +49,30 @@ Deep Learning Models for Human Aggression Detection [[Code]](https://github.com/
 
 * Advisor: [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), associate professor in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). 
 
-* Reproduced and compared several vision-based neural network models, including SNN, Transfer Learning model, conv-LSTM, 3D convolution model, on human aggressive behavior.
-
-* Developed new CNN models, including optical flow based VGG, transfer learning + LSTM models.
-
 * Created our own dataset which we manually cut and labeled from internet to evaluate their flexibility.
+
+* Reproduced and compared several vision-based neural network models, including Transfer Learning model, conv-LSTM, 3D convolution model, on human aggressive behavior.
+
+* Developed new CNN models, including optical flow based VGG and transfer learning + LSTM models.
 
 Human Falling Detection by Optical  Flow and CNN [[Code]](https://github.com/LinHangzheng/Fall_Detection_Project) 
 ------
-* Advisor: [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/)
+* Advisor: [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), UIUC
 
 * Developed a Convolutional Neural Network to train a neuro-based model to detect human falling.
 
-* Created our own video data set, analyzed different data stacking patterns on neural network training.
+* Created our own video data set and analyzed different data stacking patterns on neural network training.
 
-* Implemented an end-to-end human falling detection model from catching data by camera to providing alarm.
+* Implemented an end-to-end human falling detection model by using camera video stream to provide alarm service.
 
 
 HUAWEI HiSilicon
 ------
 ![Da_Vinci_Core.png](../images/Da_Vinci_Core.png){:height="70%" width="70%"}
 
-* Involved in the HUAWEI Turing department and participated in the development of Da Vinci chip operators. (The Da Vinci chip is one of the most advanced neural network chips in the world)
+* Involved in the Huawei Turing department and participated in the development of Da Vinci chip operators. (The Da Vinci chip is one of the most advanced neural network chips in the world)
 
-* Accelerated the data transmission by calculating the best way to allocate the moving data and how to divide each part of data and their corresponding buffer and cache.
+* Accelerated the data transmission by optimizing the way to allocate the moving data and to divide data into parts with their corresponding buffer and cache.
 
 * Successfully reduced the transmission delay from 50ms into 3ms.
 
