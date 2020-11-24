@@ -44,18 +44,17 @@ RESEARCH EXPERIENCE
 
 **Mathematical Contest in Modeling**	January 2019 
 
-* Advisor: Wei Liu, Assistant Professor of Division of Sustainable Buildings Department of Civil and Architectural Engineering KTH Royal Institute of Technology
-* The competition asked teams to select, configure, optimally pack, geoposition, deploy and operate a set of midsize (group 2) unmanned aerial vehicles (UAV) that would supplement existing relief to medical supply chains in Puerto Rico.
-* Used AHP to set the weights for selected features and did normalization for them. Applied 3D Bin-Packing API to approach the optimal solution of 3D packing problem. Applied Greedy Algorithm, Graph theory to calculate the accurate optimum location. 
-* Provide a stable model to solve the two NP problems with high usage of containers, quick speed to meet hospital’s needs.
-* Awarded the Outstanding Winners (0.1%) and the Informs Award (No.1 world ranking 0.02%) 
+* Advisor: Wei Liu, ZJU-UIUC Institute (Prof. Wei Liu moved to KTH)
+* Selected, configured, optimally packed, deployed and operated a set of midsize (group 2) unmanned aerial vehicles (UAV) that would supplement existing relief to medical supply chains in Puerto Rico.
+* Used AHP to set the weights for selected features and did normalization for them. Applied 3D Bin-Packing API to approach the optimal solution of 3D packing problem. Applied Greedy Algorithm, Graph theory to calculate the accurate optimum location.
+* Provided a stable model to solve the two NP problems with high usage of containers, quick speed to meet hospital’s needs.
+* Awarded the Outstanding Winners (0.1%) and the Informs Award (No.1 world ranking 0.02%)  
 
 TEACHING ASSISTANT EXPERIENCE
 ------
 MATH286 Intro to Differential Eq Plus	2020
-*	Gave students a weekly discussion section, helped them reviewed the lecture.
-*	Marked weekly assignments and exams. Answered question for students in Office Hour.
-*	Graded students final project report and scored their project presentation.
+*	Led a weekly discussion section. Helped students review lectures
+*	Graded weekly assignments, exams, and final project. Answered questions in Office Hour.
 
 SELECTED HONORS & AWARDS
 ------
