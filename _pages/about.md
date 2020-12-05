@@ -16,7 +16,7 @@ A version of my CV and transcript can be found here.
 
 [CV](../files/cv.pdf)
 
-[UIUC Transcript](../files/Transcript.pdf)
+[UIUC Transcript](../files/Transcript_UIUC.pdf)
 
 [ZJU Transcript](../files/Transcript_ZJU.pdf)
 
