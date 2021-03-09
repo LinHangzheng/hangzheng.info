@@ -94,7 +94,7 @@ We implemented a x86-based operating system from scratch, including memory pagin
 
 Machine Learning Project Design [[Report]](../files/ECE449_Report_Wolverine.pdf)
 ------
-![DNQ.png](../images/DNQ.png){:height="70%" width="70%"} 
+![DQN.png](../images/DQN.png){:height="70%" width="70%"} 
 
 Advisor: [Gaoang wang](https://person.zju.edu.cn/en/gaoangwang), [Zuozhu Liu](https://person.zju.edu.cn/en/lzz), Zhejiang University
 
