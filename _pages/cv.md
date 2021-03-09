@@ -62,6 +62,9 @@ MATH286 Intro to Differential Eq Plus	2020
 
 SELECTED HONORS & AWARDS
 ------
+* Outstanding Graduate of Zhejiang Province (top 4% in Zhejiang Province) 2021
+* Outstanding Graduate of Zhejiang University 2021
+* Dean List 2020
 *	Zhejiang Provincial Government Scholarship	2019 
 *	Zhejiang University Scholarship - First Prize (top 3% in ZJU)	2019
 *	Outstanding Student of Zhejiang University 2019
