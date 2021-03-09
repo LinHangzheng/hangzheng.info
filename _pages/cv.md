@@ -22,6 +22,9 @@ B.S. in Computer Engineering
 
 GPA: 3.94 / 4.0 (57.00 Credit Hours)
 
+PUBLICATION
+------
+H. Lina, J. Yuana, R. Zhua, X. Zhua, V. Kindratenko, Deep Learning Models for Human Aggression Detection, in preparation for Machine Learning with Applications, 2021.
 
 RESEARCH EXPERIENCE
 ------
