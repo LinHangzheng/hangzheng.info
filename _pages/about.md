@@ -57,7 +57,7 @@ Deep Learning Models for Human Aggression Detection [[Code]](https://github.com/
 
 Human Falling Detection by Optical  Flow and CNN [[Code]](https://github.com/LinHangzheng/Fall_Detection_Project) 
 ------
-![fall_detection.png](../images/fall_detection.png){:height="70%" width="70%"}
+<iframe height=300 width=400 src="../videos/fall_detection.mp4">
 
 * Advisor: [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/), UIUC
 
