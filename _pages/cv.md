@@ -57,6 +57,11 @@ RESEARCH EXPERIENCE
 TEACHING ASSISTANT EXPERIENCE
 ------
 MATH286 Intro to Differential Eq Plus	2020
+Instructor: Thomas Honold
+
+ECE120 Intro to Computer 2021
+Instructor: Volodymyr Kindratenko
+
 *	Led a weekly discussion section. Helped students review lectures
 *	Graded weekly assignments, exams, and final project. Answered questions in Office Hour.
 
