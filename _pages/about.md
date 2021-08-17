@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior student at [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/).
+I'm a MS/P.hD. student in Electrical and Computer Engineering, [University of Illinois at Urbana-Champaign](https://illinois.edu/). I received double degree from [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/) in 2021.
 
-I major in electronic and computer engineering and am interested in Artificial Intelligence, especially about deep learning. Recently, I am researching on an efficient and accurate method to detect aggressive behavior and human falling by convolutional neural network whith professor [Volodymyr Kindratenko](http://www.ncsa.illinois.edu/People/kindr/).
+I major in electronic and computer engineering and am interested in Artificial Intelligence, especially about deep learning. Recently, I am researching on an efficient and accurate method to estimate the 6D pose of teeth with professor [Liu Zuozhu](https://person.zju.edu.cn/en/lzz).
 
 A version of my CV and transcript can be found here.
 

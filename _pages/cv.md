@@ -28,6 +28,12 @@ PUBLICATION
 
 RESEARCH EXPERIENCE
 ------
+**Accurate Tooth Pose Estimation in 3D Intraoral Scans using Deep Learning** May 2020 – present
+
+* Advisor: Liu Zuozhu, ZJU
+*	Proposed an automatic and efficient model based on Dynamic Graph CNN (DGCNN) for the tooth transformation task.
+*	Generate a precise rotation and ensure the accuracy of transformation.
+
 **Deep Learning Models for Human Aggression Detection**	May 2020 - Present
 
 * Advisor: Volodymyr Kindratenko, UIUC
