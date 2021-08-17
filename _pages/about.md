@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a MS/P.hD. student in Electrical and Computer Engineering, [University of Illinois at Urbana-Champaign](https://illinois.edu/). I received double degree from [Zhejiang University/University of Illinois at Urbana-Champaign Institute](https://zjui.intl.zju.edu.cn/) in 2021.
+I'm a MS/P.hD. student in Electrical and Computer Engineering, [University of Illinois at Urbana-Champaign](https://illinois.edu/). I received double BS degrees from both [Zhejiang University](https://www.zju.edu.cn/english/) and University of Illinois at Urbana-Champaign in 2021.
 
 I major in electronic and computer engineering and am interested in Artificial Intelligence, especially about deep learning. Recently, I am researching on an efficient and accurate method to estimate the 6D pose of teeth with professor [Liu Zuozhu](https://person.zju.edu.cn/en/lzz).
 
