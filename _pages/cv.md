@@ -10,25 +10,21 @@ redirect_from:
 {% include base_path %}
 Education
 ------
-**Zhejiang University (ZJU)** August 2017 – June 2021 (expected)
+**Zhejiang University (ZJU)** August 2017 – June 2021
 
 B.Eng. in Electronic and Computer Engineering
 
 GPA: 3.94 / 4.0 (70.00 Credit Hours)
  
-**University of Illinois at Urbana-Champaign (UIUC)**	August 2017 – May 2021 (expected)
+**University of Illinois at Urbana-Champaign (UIUC)**	August 2017 – May 2021
 
 B.S. in Computer Engineering
 
 GPA: 3.94 / 4.0 (57.00 Credit Hours)
 
-PUBLICATION
-------
-**H. Lin**, J. Yuan, R. Zhu, X. Zhu, V. Kindratenko, **Deep Learning Models for Human Aggression Detection**, in preparation for Machine Learning with Applications, 2021.
-
 RESEARCH EXPERIENCE
 ------
-**Accurate Tooth Pose Estimation in 3D Intraoral Scans using Deep Learning** May 2020 – present
+**Accurate Tooth Pose Estimation in 3D Intraoral Scans using Deep Learning** May 2021 – present
 
 * Advisor: Liu Zuozhu, ZJU
 *	Proposed an automatic and efficient model based on Dynamic Graph CNN (DGCNN) for the tooth transformation task.
@@ -65,11 +61,14 @@ RESEARCH EXPERIENCE
 
 TEACHING ASSISTANT EXPERIENCE
 ------
-MATH286 Intro to Differential Eq Plus	2020
-Instructor: Thomas Honold
+ECE120 Intro to Computer 2021
+Instructor: Bhowmik, Ujjal Kumar
 
 ECE120 Intro to Computer 2021
 Instructor: Volodymyr Kindratenko
+
+MATH286 Intro to Differential Eq Plus	2020
+Instructor: Thomas Honold
 
 *	Led a weekly discussion section. Helped students review lectures
 *	Graded weekly assignments, exams, and final project. Answered questions in Office Hour.
