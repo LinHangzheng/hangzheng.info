@@ -92,15 +92,6 @@ Advisor: [Steven S. Lumetta](https://ece.illinois.edu/about/directory/faculty/lu
 
 We implemented a x86-based operating system from scratch, including memory paging and segmentation, drivers of peripheral equipment and multi-process scheduling.
 
-Machine Learning Project Design [[Report]](../files/ECE449_Report_Wolverine.pdf)
-------
-![DQN.png](../images/DQN.png){:height="70%" width="70%"} 
-
-Advisor: [Gaoang wang](https://person.zju.edu.cn/en/gaoangwang), [Zuozhu Liu](https://person.zju.edu.cn/en/lzz), Zhejiang University
-
-We train a Atari agent using deep Q-learnging Algorithm (DQN) with Experience Replay Memory and Target/Local
-Q Network mechanism.
-
 Contact
 =======
 Phone: +86 136 5577 3396
