@@ -94,7 +94,7 @@ We implemented a x86-based operating system from scratch, including memory pagin
 
 Contact
 =======
-Email: [hl30@illinois.edu](mailto:hl30@illinois.edu)/[hangzheng.17@gmail.com](mailto:hangzheng.17@gmail.com)<br>
+Email: [hl30@illinois.edu](mailto:hl30@illinois.edu) / [hangzheng.17@gmail.com](mailto:hangzheng.17@gmail.com)<br>
 Phone: +1 (217) 200-0702<br>
 Address: 608E University AVE, Champaign, Illinois, United State<br>
 
