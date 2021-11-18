@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a MS/P.hD. student in Electrical and Computer Engineering, [University of Illinois at Urbana-Champaign](https://illinois.edu/). I received double BS degrees from both [Zhejiang University](https://www.zju.edu.cn/english/) and University of Illinois at Urbana-Champaign in 2021.
 
-I major in electronic and computer engineering and am interested in Artificial Intelligence, especially about deep learning. Recently, I am researching on an efficient and accurate method to estimate the 6D pose of teeth with professor [Liu Zuozhu](https://person.zju.edu.cn/en/lzz).
+I am interested in Artificial Intelligence, especially about deep learning. Recently, I am researching on an efficient and accurate method to estimate the 6D pose of teeth with professor [Liu Zuozhu](https://person.zju.edu.cn/en/lzz).
 
 A version of my CV and transcript can be found here.
 
@@ -78,7 +78,7 @@ HUAWEI HiSilicon
 
 * Successfully reduced the transmission delay from 50ms into 3ms.
 
-FPGA based Game Design [[Code]](https://github.com/LinHangzheng/ECE385)
+FPGA based Game Design [[Code]](https://github.com/LinHangzheng/ECE385) [[Video]](https://www.bilibili.com/video/BV113411k73H)
 ------
 ![Avalon.png](../images/Avalon.png){:height="70%" width="70%"} 
 
@@ -94,9 +94,9 @@ We implemented a x86-based operating system from scratch, including memory pagin
 
 Contact
 =======
-Phone: +86 136 5577 3396
-
-Address: 718 East Haizhou Street, Haining, Jiaxing, Zhejiang province, China
+Email: [hl30@illinois.edu](hl30@illinois.edu)/[hangzheng.17@gmail.com](hangzheng.17@gmail.com)
+Phone: +1 (217)200-0702
+Address: 608E University AVE, Champaign, Illinois, United State
 
 <!-- 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

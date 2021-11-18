@@ -20,15 +20,18 @@ GPA: 3.94 / 4.0 (70.00 Credit Hours)
 
 B.S. in Computer Engineering
 
-GPA: 3.94 / 4.0 (57.00 Credit Hours)
+GPA: 3.93 / 4.0 (71.00 Credit Hours)
 
 RESEARCH EXPERIENCE
 ------
 **Accurate Tooth Pose Estimation in 3D Intraoral Scans using Deep Learning** May 2021 – present
 
 * Advisor: Liu Zuozhu, ZJU
-*	Proposed an automatic and efficient model based on Dynamic Graph CNN (DGCNN) for the tooth transformation task.
-*	Generate a precise rotation and ensure the accuracy of transformation.
+* Introduced the first approach with deep learning methods for accurate and automatic 6D tooth pose estimation, which is already
+integrated into clinical software for orthodontics in China.
+* Demonstrated the excellent performance of our method with comprehensive experiments on a newly collected large dataset.
+* Revealed the relationship between axial orientation difference of occlusive teeth and gingival atrophy, which might be helpful
+for dentists to identify the gingival atrophy in advance.
 
 **Deep Learning Models for Human Aggression Detection**	May 2020 - Present
 
@@ -70,7 +73,7 @@ Instructor: Volodymyr Kindratenko
 MATH286 Intro to Differential Eq Plus	2020
 Instructor: Thomas Honold
 
-*	Led a weekly discussion section. Helped students review lectures
+*	Led a weekly discussion section. Helped students review lectures.
 *	Graded weekly assignments, exams, and final project. Answered questions in Office Hour.
 
 SELECTED HONORS & AWARDS
