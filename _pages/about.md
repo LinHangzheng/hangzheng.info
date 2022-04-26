@@ -10,7 +10,9 @@ redirect_from:
 
 I'm an MS/P.hD. student in Electrical and Computer Engineering, [University of Illinois at Urbana-Champaign](https://illinois.edu/). I received double BS degrees from both the [Zhejiang University](https://www.zju.edu.cn/english/) and the University of Illinois at Urbana-Champaign in 2021.
 
-I am interested in Artificial Intelligence, especially deep learning. Recently, I am researching an efficient and accurate method to estimate the 6D pose of teeth with professor [Liu Zuozhu](https://person.zju.edu.cn/en/lzz).
+I am interested in Artificial Intelligence, especially computer vision. Recently, I am researching an efficient and accurate method to do the textured 3D Reconstruction with single view.
+
+ <!-- estimate the 6D pose of teeth with professor [Liu Zuozhu](https://person.zju.edu.cn/en/lzz). -->
 
 A version of my CV and transcript can be found here.
 
@@ -20,6 +22,15 @@ A version of my CV and transcript can be found here.
 
 [ZJU Transcript](../files/Transcript_ZJU.pdf)
 
+Publication
+======
+<ins>AI-enabled Automatic Multimodal Fusion of Cone-Beam CT and Intraoral Scans for Intelligent 3D Tooth-Bone Reconstruction and Clinical Applications</ins> (in submission)
+
+Jin Hao#, Jiaxiang Liu#, <ins>Hangzheng Lin</ins>, Jin Li, Wei Pan, Yang Feng, Ruizhe Chen, Huimin Xiong, Kaiwei Sun, Wanlu Liu, H.Howard Yang, Wanghui Ding, Jianfei Yang, Haoji Hu, Yueling Zhang, Zeyu Zhao, Huikai Wu, Youyi Zheng, Bing Fang, Zuozhu Liu*, Zhihe Zhao* 
+
+<ins>Accurate Estimation of 6D Tooth Pose in 3D Intra Oral Scans for Dental Applications using Deep Learning</ins> (in submission)
+
+Jin Hao#, <ins>Hangzheng Lin#</ins>, Kaiwei Sun#, Yueling Zhang, Zhang Chen, Yang Feng, ZhiheZhao, Zuozhu Liu, Bing Fang
 
 
 Competition Experience
