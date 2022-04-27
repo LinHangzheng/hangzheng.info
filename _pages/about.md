@@ -24,7 +24,8 @@ A version of my CV and transcript can be found here.
 
 Publication
 ======
-<ins>AI-enabled Automatic Multimodal Fusion of Cone-Beam CT and Intraoral Scans for Intelligent 3D Tooth-Bone Reconstruction and Clinical Applications</ins> (in submission)
+<ins>Towards Clinically Applicable Multimodal Fusion
+of Cone-Beam CT and Intraoral Scans</ins> (in submission)
 
 Jiaxiang Liu#, Jin Hao#, <ins> Hangzheng Lin</ins>, Wei Pan, Gaoang Wang, Wanlu Liu, Yang
 Feng, Xi Li, Zuozhu Liu
