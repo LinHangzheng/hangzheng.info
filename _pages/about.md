@@ -26,8 +26,8 @@ Publication
 ======
 <ins>AI-enabled Automatic Multimodal Fusion of Cone-Beam CT and Intraoral Scans for Intelligent 3D Tooth-Bone Reconstruction and Clinical Applications</ins> (in submission)
 
-Jin Hao#, Jiaxiang Liu#, <ins>Hangzheng Lin</ins>, Jin Li, Wei Pan, Yang Feng, Ruizhe Chen, Huimin Xiong, Kaiwei Sun, Wanlu Liu, H.Howard Yang, Wanghui Ding, Jianfei Yang, Haoji Hu, Yueling Zhang, Zeyu Zhao, Huikai Wu, Youyi Zheng, Bing Fang, Zuozhu Liu*, Zhihe Zhao* 
-
+Jiaxiang Liu#, Jin Hao#, <ins> Hangzheng Lin</ins>, Wei Pan, Gaoang Wang, Wanlu Liu, Yang
+Feng, Xi Li, Zuozhu Liu ,
 <ins>Accurate Estimation of 6D Tooth Pose in 3D Intra Oral Scans for Dental Applications using Deep Learning</ins> (in submission)
 
 Jin Hao#, <ins>Hangzheng Lin#</ins>, Kaiwei Sun#, Yueling Zhang, Zhang Chen, Yang Feng, ZhiheZhao, Zuozhu Liu, Bing Fang
